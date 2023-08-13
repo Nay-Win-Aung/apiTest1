@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+#fetchButton {
+    background-color: #ff4400;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#photoContainer {
+    margin-top: 20px;
+}
